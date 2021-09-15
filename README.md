@@ -1,6 +1,8 @@
 # news_app
 
-A new Flutter project.
+A news app in Flutter.
+
+The files are in master branch.
 
 ## Getting Started
 
